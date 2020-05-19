@@ -1,0 +1,41 @@
+﻿  UnitTest1.cpp
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(97,25): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(101,27): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(116,23): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(120,25): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(145,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(153,23): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(169,8): warning C4552:  "*": результат выражения не используется
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(170,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(177,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(183,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(194,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(204,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(209,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(211,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(221,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(230,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(244,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(288,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(302,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(308,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(313,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(315,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(333,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(343,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(349,20): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\Therm_work\Therm_work.cpp(351,21): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\UnitTest1\UnitTest1.cpp(38,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\UnitTest1\UnitTest1.cpp(62,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\UnitTest1\UnitTest1.cpp(82,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\UnitTest1\UnitTest1.cpp(103,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\UnitTest1\UnitTest1.cpp(111,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\UnitTest1\UnitTest1.cpp(120,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\UnitTest1\UnitTest1.cpp(126,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\UnitTest1\UnitTest1.cpp(128,23): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\UnitTest1\UnitTest1.cpp(161,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\UnitTest1\UnitTest1.cpp(169,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\UnitTest1\UnitTest1.cpp(178,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\UnitTest1\UnitTest1.cpp(184,22): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\Aistr\4th term\Therm_work\UnitTest1\UnitTest1.cpp(186,23): warning C4018:  <: несоответствие типов со знаком и без знака
+  UnitTest1.vcxproj -> D:\Aistr\4th term\Therm_work\Debug\UnitTest1.dll
